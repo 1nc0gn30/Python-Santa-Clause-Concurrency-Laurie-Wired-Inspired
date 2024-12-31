@@ -117,6 +117,3 @@ In real-world systems, these principles underpin:
 ---
 
 Feel free to enhance or expand the project to explore additional concurrency challenges and solutions!
-
-
-# Python-Santa-Clause-Concurrency-Laurie-Wired-Inspired
